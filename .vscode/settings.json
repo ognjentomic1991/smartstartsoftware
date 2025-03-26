@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/e687e9a9-66e8-472e-b9a5-be307c2491c9/resourceGroups/smartstartsoftware/providers/Microsoft.Web/sites/smartstartsoftware",
+    "appService.deploySubpath": "build"
+}
